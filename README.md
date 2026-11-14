@@ -12,3 +12,7 @@ RED: 0.4€
 Para quem não gosta de usar a cloud e fica pelo web interface, este script guarda o consumo de wh por quarto de hora do dia, dos ultimos 7 dias (configuravel, mas cuidado com a memoria)
 Memoria volatil por isso desaparece se desligares o script.
 Com consulta no browser.
+
+
+Para meter na Library de script do shelly:
+https://raw.githubusercontent.com/frederico4d/ShellyScripts/main/examples-manifest.json?utm_source=chatgpt.com
