@@ -10,7 +10,7 @@ CYAN: até 0.1€
 GREEN: até 0.2€
 ORANGE: até 0.3€
 RED: até 0.4€
-PURPLE: 0.4€+
+PURPLE: mais de 0.4€
 
 ### Local_Statistics.js
 Para quem não gosta de usar a cloud e fica pelo web interface, este script guarda o consumo de wh por quarto de hora do dia, dos ultimos 7 dias (configuravel, mas cuidado com a memoria)
