@@ -1,5 +1,8 @@
 Scripts que tenho utilizado nos Shellys Plugs S/M Gen3
 
+Todos os scripts que uso são para uso local/wifi Web interface.
+Não uso cloud nem hubs/Matter/Homeassist.
+
 ### PrecoCoopernico.js 
 Consulta os valores da energia indexada OMIE, aplica a formula da [Coopérnico](https://coopernico.org/) para ter o preço da eletricidade por quarto de hora actualizado (num componente NUMBER) e muda o led do Plug conforme o preço:
 com as cores:
