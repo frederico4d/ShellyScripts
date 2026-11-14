@@ -1,0 +1,27 @@
+[
+  {
+    "fname": "Local_Statistics.js",
+    "title": "Shelly - Estatísticas Locais de Consumo",
+    "description": "Recolhe e disponibiliza estatísticas de consumo energético localmente no dispositivo Shelly, através de um endpoint HTTP.",
+    "tags": [
+      "energy",
+      "statistics",
+      "monitoring",
+      "local",
+      "http"
+    ]
+  },
+  {
+    "fname": "PrecoCoopernico.js",
+    "title": "Coopérnico - Preço de Eletricidade",
+    "description": "Consulta os preços OMIE e calcula o preço estimado da eletricidade segundo a tarifa indexada simples da Coopérnico. Atualiza um componente Number e o LED do Shelly, com cache dos preços e atualização a cada 15 minutos.",
+    "tags": [
+      "energy",
+      "omie",
+      "cooper nico",
+      "electricity",
+      "price",
+      "automation"
+    ]
+  }
+]
