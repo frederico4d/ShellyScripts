@@ -15,4 +15,4 @@ Com consulta no browser.
 
 
 Para meter na Library de script do shelly:
-https://raw.githubusercontent.com/frederico4d/ShellyScripts/main/examples-manifest.json?utm_source=chatgpt.com
+https://raw.githubusercontent.com/frederico4d/ShellyScripts/main/examples-manifest.json
